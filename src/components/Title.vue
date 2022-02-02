@@ -2,6 +2,7 @@
   <div class="jumbotron jumbotron-fluid gradient-custom p-5">
     <div class="container p-5">
       <h1 class="pt-5 display-1 text-light">
+        <img src="../assets/ClearVue_logo.png" width="159.2px" height="192px">
         Clear<span class="second-font">Vue</span></h1>
       <p class="lead text-light">The Vue.js 3 Developer Tool</p>
       <div class="p-5 gap-3 download mx-auto">
